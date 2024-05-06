@@ -29,6 +29,7 @@ Publish the website in the given URL.
 
 ## PROGRAM:
 HOME PAGE:
+```
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -190,10 +191,10 @@ HOME PAGE:
     </footer>
 </body>
 </html>
-
+```
 
 PRODUCT:
-
+```
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -377,9 +378,9 @@ PRODUCT:
     </footer>
 </body>
 </html>
-
+```
 PEOPLE:
-
+```
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -528,8 +529,9 @@ eople page </title>
     </footer>
 </body>
 </html>
-
+```
 CONTACT:
+```
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -735,7 +737,7 @@ CONTACT:
     </footer>
 </body>
 </html>
-
+```
 ## OUTPUT:
 HOME PAGE:
 ![alt text](softy/softapp/static/HOME.png)
