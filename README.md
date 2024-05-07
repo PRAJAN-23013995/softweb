@@ -1,5 +1,5 @@
 # Ex.07 Software Product Company Website
-## Date:
+## Date:05.04.2024
 
 ## AIM:
 To develop a static company website to display the softwares and services provided by the company.
@@ -33,7 +33,7 @@ HOME PAGE:
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title> Automobiles Development Indutry </title>
+        <title> Software Development Indutry </title>
         <style type="text/css">
             * {
                 margin: 0;
@@ -164,7 +164,7 @@ HOME PAGE:
     <div class="banner">
         <br>
         <div class="navbar">
-            <h1 class="logo">HORSE POWERED ENGINES</h1>
+            <h1 class="logo">THINK BRIGHT SOFTWARES</h1>
             <ul>
                 <li><a href="http://127.0.0.1:8000/static/softapp.html"> SITE HOME </a></li>
                 <li><a href="http://127.0.0.1:8000/static/p.html"> PRODUCT </a></li>
@@ -175,12 +175,12 @@ HOME PAGE:
         </div>
         <div class="content">
             <div class="text">
-                <h2> AUTOMOBILES DEVELOPMENT INDUSTRY </h2>
+                <h2> SOFTWARE DEVELOPMENT INDUSTRY </h2>
                 <br>
-                <p>Empowering businesses with innovative automobile solutions tailored to their unique needs, driving efficiency and growth in a rapidly evolving industrial market.</p>
+                <p>Empowering businesses with innovative software solutions tailored to their unique needs, driving efficiency and growth in a rapidly evolving industrial market.</p>
                 <br>
                 <div>
-                    <img src="homepic.jpg" width="1000px" height="500px">
+                    <img src="download.jpeg" width="1000px" height="500px">
                 </div>
                 
             </div>
@@ -325,7 +325,7 @@ PRODUCT:
     <div class="banner">
         <br>
         <div class="navbar">
-            <h1 class="logo">HORSE POWERED ENGINES</h1>
+            <h1 class="logo">THINK BRIGHT SOFTWARES</h1>
             <ul>
                 <li><a href="http://127.0.0.1:8000/static/softapp.html"> SITE HOME </a></li>
                 <li><a href="http://127.0.0.1:8000/static/p.html" class="bg-product"> PRODUCTS </a></li>
@@ -384,8 +384,7 @@ PEOPLE:
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title> p
-eople page </title>
+        <title> people page </title>
         <style type="text/css">
             * {
                 margin: 0;
@@ -699,7 +698,7 @@ CONTACT:
     <div class="banner">
         <br>
         <div class="navbar">
-            <h1 class="logo">HORSE POWERED ENGINES</h1>
+            <h1 class="logo">THINK BRIGHT SOFTWARES</h1>
             <ul>
                 <li><a href="http://127.0.0.1:8000/static/softapp.html">SITE HOME </a></li>
                 <li><a href="http://127.0.0.1:8000/static/p.html"> PRODUCTS </a></li>
@@ -740,16 +739,16 @@ CONTACT:
 ```
 ## OUTPUT:
 HOME PAGE:
-![alt text](softy/softapp/static/HOME.png)
+![alt text](<softy/softapp/static/Screenshot (39).png>)
 
 PRODUCT:
-![alt text](softy/softapp/static/PRODUCTS.png)
+![alt text](<softy/softapp/static/Screenshot (40).png>)
 
 PEOPLE:
-![alt text](softy/softapp/static/PEOPLE.png)
+![alt text](<softy/softapp/static/Screenshot (41).png>)
 
 CONTACT:
-![alt text](softy/softapp/static/CONTACT.png)
+![alt text](<softy/softapp/static/Screenshot (42).png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
