@@ -742,7 +742,7 @@ HOME PAGE:
 ![alt text](<softy/softapp/static/Screenshot (39).png>)
 
 PRODUCT:
-![alt text](<softy/softapp/static/Screenshot (40).png>)
+![alt text](<softy/softapp/static/Screenshot (43).png>)
 
 PEOPLE:
 ![alt text](<softy/softapp/static/Screenshot (41).png>)
